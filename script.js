@@ -7,7 +7,7 @@ Poniżej tego komentarza zamiast trzech kropek w nawiasie wpisz warunek który w
 z czerwonym paskiem tylko wtedy gdy śrenia ocen jest równa 4
 */
 
-if (...) {
+if (sredniaOcen==4) {
   console.log("Dostajesz świadectwo z czerwonym paskiem");
 } else {
   console.log("Dostajesz zwykłe świadectwo");
