@@ -1,13 +1,14 @@
 let sredniaOcen;
 
-/* 
-Poniżej tego komentarza przypisz wartosc do zmiennej sredniaOcen tak aby wyswietlił się tekst 
-z czerwonym paskiem. 
-*/
-sredniaOcen = 10;
+sredniaOcen = 3;
 
-if (sredniaOcen > 4) {
-    console.log("Dostajesz świadectwo z czerwonym paskiem");
+/* 
+Poniżej tego komentarza zamiast trzech kropek w nawiasie wpisz warunek który wyświetli tekst 
+z czerwonym paskiem tylko wtedy gdy śrenia ocen jest NIE RÓWNA 4
+*/
+
+if (...) {
+  console.log("Dostajesz świadectwo z czerwonym paskiem");
 } else {
-    console.log("Dostajesz zwykłe świadectwo");
+  console.log("Dostajesz zwykłe świadectwo");
 }
