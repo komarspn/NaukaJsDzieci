@@ -1,12 +1,13 @@
 let sredniaOcen;
 
-/* 
-Poniżej tego komentarza przypisz wartosc do zmiennej sredniaOcen tak aby wyswietlił się tekst 
-bez czerwonego paska. 
-*/
- sredniaOcen =4
+sredniaOcen = 3;
 
-if (sredniaOcen > 4) {
+/* 
+Poniżej tego komentarza zamiast trzech kropek w nawiasie wpisz warunek który wyświetli tekst 
+z czerwonym paskiem tylko wtedy gdy śrenia ocen jest równa 4
+*/
+
+if (...) {
   console.log("Dostajesz świadectwo z czerwonym paskiem");
 } else {
   console.log("Dostajesz zwykłe świadectwo");
