@@ -4,7 +4,7 @@ let sredniaOcen;
 Poniżej tego komentarza przypisz wartosc do zmiennej sredniaOcen tak aby wyswietlił się tekst 
 bez czerwonego paska. 
 */
-
+ sredniaOcen =4
 
 if (sredniaOcen > 4) {
   console.log("Dostajesz świadectwo z czerwonym paskiem");
